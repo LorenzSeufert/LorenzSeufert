@@ -1,5 +1,4 @@
 ![](https://github.com/LorenzSeufert/github-stats/blob/master/generated/overview.svg)
-
 ![](https://github.com/LorenzSeufert/github-stats/blob/master/generated/languages.svg)
 
 
